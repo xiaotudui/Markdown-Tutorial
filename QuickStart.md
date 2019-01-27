@@ -47,13 +47,13 @@
 
 默认情况下，段落之间是以多个空行进行分隔的。我们只需要按下`回车键` 就可以完成段落分隔。
 
-![para02](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/para02.png)
+![para02](/imgs/para02.png)
 
 <center>这是段落分隔</center>
 
 有些编辑器中，会忽略掉换行。进行换行操作的时候，可以使用`Shift` + `回车`。
 
-![para01](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/para01.png)
+![para01](/imgs/para01.png)
 
 <center>这是换行</center>
 
@@ -65,7 +65,7 @@
 
 标题的显示效果以及**无空格的错误示范**：
 
-![tit01](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/tit01.png)
+![tit01](/imgs/tit01.png)
 
 所以大家记得要加空格
 
@@ -140,7 +140,7 @@ def highlight():
 
 `这个符号，在键盘的这个位置：
 
-![code](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/code.png)
+![code](/imgs/code.png)
 
 在英文状态下，输入即可。
 
@@ -197,7 +197,7 @@ This is a code block.
 
 比如，我们这个文件叫`SpanElement.md`
 
-![relative](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/rel01.png)
+![relative](/imgs/rel01.png)
 
 这就相当于起点，接下来我们要根据指令形式。
 
@@ -266,7 +266,7 @@ This is a code block.
 
 显示效果：
 
-![wechat](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/wechat.jpg)
+![wechat](/imgs/wechat.jpg)
 
 ## 加强（加粗）
 

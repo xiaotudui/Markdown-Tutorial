@@ -54,23 +54,23 @@
 
 默认情况下，段落之间是以多个空行进行分隔的。我们只需要按下`回车键` 就可以完成段落分隔。
 
-![para02](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/para02.png)
+![para02](/imgs/para02.png)
 
 <center>这是段落分隔</center>
 
 有些编辑器中，会忽略掉换行。进行换行操作的时候，可以使用`Shift` + `回车`。
 
-![para01](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/para01.png)
+![para01](/imgs/para01.png)
 
 <center>这是换行</center>
 
 也许有的编辑器不支持，你可以尝试在文字后面输入`两个空格` 
 
-![lb01](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/lb01.png)
+![lb01](/imgs/lb01.png)
 
 或者输入`<br/>`
 
-![lb02](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/lb02.png)
+![lb02](/imgs/lb02.png)
 
 ## 标题
 
@@ -80,7 +80,7 @@
 
 标题的显示效果以及**无空格的错误示范**：
 
-![tit01](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/tit01.png)
+![tit01](/imgs/tit01.png)
 
 所以大家记得要加空格
 
@@ -173,7 +173,7 @@ def highlight():
 
 `这个符号，在键盘的这个位置：
 
-![code](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/code.png)
+![code](/imgs/code.png)
 
 在英文状态下，输入即可。
 
@@ -191,11 +191,11 @@ This is a code block.
 
 表格一般由标题和内容组成。下图中，红色部分就是标题，蓝色部分就是内容。Markdown语言，有点仿照表格的样子。
 
-![table](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/table.png)
+![table](/imgs/table.png)
 
 表格是由横线和竖线组成的。横线和竖线，在键盘的这些位置：
 
-![table2](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/table2.png)
+![table2](/imgs/table2.png)
 
 同时，表格也是由行和列组成，**我们可以用换行来表示行，那么用什么来表示列呢？**
 
@@ -286,7 +286,7 @@ Markdown是使用横线来区分标题和内容的。
 
 比如，我们这个文件叫`SpanElement.md`
 
-![relative](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/rel01.png)
+![relative](/imgs/rel01.png)
 
 这就相当于起点，接下来我们要根据指令形式。
 
@@ -355,7 +355,7 @@ Markdown是使用横线来区分标题和内容的。
 
 显示效果：
 
-![wechat](E:/%E6%96%87%E6%A1%A3/GitHub/Markdown-Tutorial/imgs/wechat.jpg)
+![wechat](/imgs/wechat.jpg)
 
 ## 斜体
 

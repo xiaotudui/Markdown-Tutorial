@@ -32,7 +32,7 @@
 
 [表格](BlockElement.md#表格)：创建表格
 
-[分割线](SpanElement.md#水平线（分割线）)：创建分割线
+[分割线](BlockElement.md#水平线（分割线）)：创建分割线
 [链接](SpanElement.md#链接)：链接到其他文件，其他标题，或者其他网址
 
 [链接网址](SpanElement.md#链接网址)

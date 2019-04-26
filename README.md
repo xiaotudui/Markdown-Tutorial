@@ -30,7 +30,7 @@
 
 [代码](BlockElement.md#代码块)：输入代码和代码高亮
 
-[表格](SpanElement.md#表格)：创建表格
+[表格](BlockElement.md#表格)：创建表格
 
 [分割线](SpanElement.md#水平线（分割线）)：创建分割线
 [链接](SpanElement.md#链接)：链接到其他文件，其他标题，或者其他网址
